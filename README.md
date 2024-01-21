@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about building frontend web applications and I love to code. 
 
 ## 🔭 What I'm currently working on
-- [FoodAddaa](https://github.com/Chinmayee-mohapatra/FoodAddaa): Adding more features to the basic version.
+- [ShoppinGuru](https://github.com/Chinmayee-mohapatra/ShoppinGuru): Building an E-commerce website from scratch with advance features.
 
 ## 💻 Skills
 - HTML
